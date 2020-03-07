@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tutorial</groupId>
-	<artifactId>jpa</artifactId>
+	<artifactId>jpa-using-multi-db</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpa</name>
 	<description>Demo project for Spring Boot</description>
